@@ -1,0 +1,11 @@
+{
+  "name": "yarn-direct-dependency",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "repository": "https://github.com/dependabot-fixtures/yarn-direct-dependency.git",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "2.4.1"
+  }
+}
